@@ -1,0 +1,68 @@
+.Github{
+    background-color: #f2f2f2;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0px;
+
+}
+.dataRecieve {
+    background-color: #acacac;
+    padding: 20px;
+    outline: none;
+    border: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.dataRecieve input {
+    width: 75%;
+    height: 40px;
+    border: none;
+    font-size: 27px;
+}
+.dataRecieve input:focus{
+    border: 1px solid  crimson;
+    outline: none !important;
+}
+.submit {
+    color: white;
+    background-color: crimson;
+    padding: 4px 42px;
+    outline: none;
+    border: none;
+    height: 40px;
+}
+
+.Repositories >div {
+        display: flex;
+    align-items: center;
+
+}
+.Repositories p {
+        display: flex;
+    align-items: center;
+
+        color: #fffefe;
+    height: 40px;
+    margin: 23px;
+    background-color: #938b8b;
+    padding: 5px;
+    width: 75%;
+}
+.visit{
+    background: #dc143c;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+         text-decoration: none;
+
+}
+.Repositories h1{
+    
+    color: red;
+    background: #ffcaca;
+    width: 50%;
+    text-align: center;
+    margin: 22px auto;
+    border-radius: 10px;
+}
